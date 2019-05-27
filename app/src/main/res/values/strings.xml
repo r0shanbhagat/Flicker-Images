@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flicker</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="error_msg">Oops! Something went wrong. Possibly with your Network connection. Please try again.</string>
+    <string name="close">close</string>
+    <string name="loading_message">Loading images from Flickr. Please wait...</string>
+
+</resources>
